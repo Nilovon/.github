@@ -34,7 +34,7 @@ _The modern ticketing system designed for seamless support and streamlined opera
 
 We are constantly innovating and expanding our portfolio. Follow us to stay updated on our latest developments, open-source initiatives (if any), and career opportunities.
 
-*   **Visit our official website:** [**Nilovon.com**](https://www.nilovon.com) *(Replace with your actual website)*
+*   **Visit our official website:** [**nilovon.com**](https://www.nilovon.com)
 
 ---
 
