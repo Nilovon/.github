@@ -39,8 +39,6 @@ _Description of your next major project._
 We are constantly innovating and expanding our portfolio. Follow us to stay updated on our latest developments, open-source initiatives (if any), and career opportunities.
 
 *   **Visit our official website:** [**Nilovon.com**](https://www.nilovon.com) *(Replace with your actual website)*
-*   **Connect with us on LinkedIn:** [linkedin.com/company/nilovon](https://linkedin.com/company/nilovon) *(Replace with your actual LinkedIn URL)*
-*   **Follow us on X (Twitter):** [@nilovon_tech](https://x.com/nilovon_tech) *(Replace with your actual X/Twitter handle)*
 
 ---
 
