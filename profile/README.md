@@ -27,11 +27,6 @@ Explore the repositories within our organization to see the various projects and
 ### [Wavedesk](https://github.com/Nilovon/Wavedesk)
 _The modern ticketing system designed for seamless support and streamlined operations. Visit [Wavedesk.app](https://wavedesk.app) to learn more._
 
-*(Add more project links here as you launch them. Example below)*
-
-### [Project X (Coming Soon)](https://github.com/Nilovon/ProjectX)
-_Description of your next major project._
-
 ---
 
 ## 🤝 Join Our Journey
