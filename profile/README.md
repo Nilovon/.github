@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/badge/Website-Nilovon.com-blue.svg)](https://www.nilovon.com)
 [![Discord](https://img.shields.io/badge/Discord-Join%20our%20Community-7289DA.svg?logo=discord)](https://discord.gg/ZZUpyUGy7E)
+[![X (Twitter)](https://img.shields.io/badge/X-Nilovon_tech-000000.svg?logo=x)](https://x.com/nilovon_tech)
 
 **Nilovon is a technology startup crafting the next generation of SaaS products and digital solutions.**
 
